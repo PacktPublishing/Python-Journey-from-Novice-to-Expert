@@ -1,0 +1,27 @@
+/* HTML tags */
+html, body, * {
+  font-family: 'Trebuchet MS', Helvetica, sans-serif; }
+a { color: #333; }
+.record {
+  clear: both; padding: 1em; border-bottom: 1px solid #666;}
+.record-left { float: left; width: 300px;}
+.record-list { padding: 2px 0; }
+.fieldWrapper { padding: 5px; }
+.footer { margin-top: 1em; color: #333; }
+.home-option { padding: .6em 0; }
+.record-span { font-weight: bold; padding-right: 1em; }
+.record-notes { vertical-align: top; }
+.record-list-actions { padding: 4px 0; clear: both; }
+.record-list-actions a { padding: 0 4px; }
+#pwd-info { padding: 0 6px; font-size: 1.1em; font-weight: bold;}
+#id_notes { vertical-align: top; }
+/* Messages */
+.success, .errorlist {font-size: 1.2em; font-weight: bold; }
+.success {color: #25B725; }
+.errorlist {color: #B12B2B; }
+/* colors */
+.row-light-blue { background-color: #E6F0FA; }
+.row-white { background-color: #fff; }
+.green { color: #060; }
+.orange { color: #FF3300; }
+.red { color: #900; }
