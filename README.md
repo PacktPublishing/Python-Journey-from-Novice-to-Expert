@@ -1,7 +1,7 @@
 # Python-Journey-from-Novice-to-Expert
 Python-Journey-from-Novice-to-Expert by Packt Publishing
 
-##What You Will Learn:
+###What You Will Learn:
 
 *	Get Python up and running on Windows, Mac, and Linux in no time
 *	Grasp the fundamental concepts of coding, along with the basics of data structures and control flow
